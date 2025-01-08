@@ -1,5 +1,5 @@
 token:
-  expiration-time: 86400000 # 1day
+  expiration-time: 864000000 # 1day
   secret: ZGG1}v0m:t.U}wvN]r#)Y_.:c}Ydm8p*
 
 gateway:
