@@ -10,7 +10,7 @@ token:
   secret: ZGG1}v0m:t.U}wvN]r#)Y_.:c}Ydm8p*
 
 gateway:
-  ip: 222.97.25.153
+  ip: apigateway-service
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
